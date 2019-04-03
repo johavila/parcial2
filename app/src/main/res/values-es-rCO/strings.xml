@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Parcial2</string>
+    <string name="name">Nombre</string>
+    <string name="last_mame">Apellidos</string>
+    <string name="id">Documento</string>
+    <string name="grade_one">Nota #1</string>
+    <string name="grade_two">Nota #2</string>
+    <string name="grade_three">Nota #3</string>
+    <string name="final_grade">Nota Final</string>
+    <string name="grade">Nota:</string>
+    <string name="error">La nota no esta dentro del Rango 5.0 o 0.0</string>
+    <string name="done">Esrtudiante grabado Satisfactoriamente</string>
+    <string name="create_student">Crear Nuevo Estudiante</string>
+    <string name="list_student">Lista de Estudiante</string>
+</resources>

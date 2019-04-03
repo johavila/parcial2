@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Parcial2</string>
+    <string name="name">Name</string>
+    <string name="last_mame">LastName</string>
+    <string name="id">ID</string>
+    <string name="grade_one">Note #1</string>
+    <string name="grade_two">Note #2</string>
+    <string name="grade_three">Note #3</string>
+    <string name="final_grade">Final Note</string>
+    <string name="grade">Note: </string>
+    <string name="error">Notes cannot be higher than 5.0 or lower than 0.0</string>
+
+    <string name="done">Student Saved Successfully</string>
+
+    <string name="create_student">Create New Student</string>
+    <string name="list_student">List Students</string>
+    <string-array name="menu">
+        <item>@string/create_student</item>
+        <item>@string/list_student</item>
+    </string-array>
+
+</resources>
